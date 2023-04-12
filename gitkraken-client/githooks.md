@@ -24,7 +24,7 @@ Hooks are stored in the `hooks` subdirectory of the `.git` directory. This folde
 
 Hooks are unique to your local repository and will not be copied over if you create a new repository nor will be tracked by git. Feel free to add, change, or remove scripts from this folder as necessary.
 
-<img src='/wp-content/uploads/gkc_hook_location_terminal.png' srcset='/wp-content/uploads/hook_location_terminal@2x.png 2x' class='img-responsive center img-bordered' />
+<img src='/wp-content/uploads/gkc_hook_location_terminal.png' srcset='/wp-content/uploads/gkc_hook_location_terminal.png 2x' class='img-responsive center img-bordered' />
 
 <img src='/wp-content/uploads/hook_location_explorer.png' srcset='/wp-content/uploads/hook_location_explorer@2x.png 2x' class='img-responsive center img-bordered' />
 
@@ -181,7 +181,7 @@ First navigate to the hooks directory for the target repo. Open a Visual Studio 
 #### Step 2
 Now that we have our pre-commit file, we need to make it executable. To do this we will need the command line.
 
-Open the Gitkraken Terminal window by clicking the Terminal <i class="fa fa-terminal" aria-hidden="true"> icon in toolbar (or by searching "terminal" in the command palette). Once the terminal is open, change directory to `.git/hooks`.
+Open the Gitkraken Terminal window by clicking the Terminal <i class="fa fa-terminal" aria-hidden="true"> </i> icon in toolbar (or by searching "terminal" in the command palette). Once the terminal is open, change directory to `.git/hooks`.
 
 Then use the command `chmod +x pre-commit` to make the pre-commit file executable.
 
