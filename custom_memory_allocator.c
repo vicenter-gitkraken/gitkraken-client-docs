@@ -29,7 +29,7 @@
 #include <assert.h> // For assertions
 
 // Define the total size of the memory pool
-#define POOL_SIZE (1024 * 1024) // 1MB
+#define POOL_size (1024 * 1024) // 1MB
 
 // Structure for the memory block header
 typedef struct BlockHeader {
