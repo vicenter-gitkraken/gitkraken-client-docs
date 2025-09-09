@@ -60,7 +60,7 @@ _“To err is human; to forgive, divine”_
 
 _“How many arms does Keif have? Ten-tacles.”_
 
-### Tuesday, May 14th, 2024
+### Tuesday, Mayteenth
 
 ### New ✨
  - GitKraken Client is now called GitKraken Desktop
