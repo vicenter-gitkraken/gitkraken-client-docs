@@ -12,6 +12,25 @@ Here's how to purchase your GitKraken subscription.
 <div class='callout callout--success'>
   <p>Do you work in an air-gapped network? Or looking for GitKraken Desktop option that does not require account creation? Then check out our  <a href="/standalone/standalone/">GitKraken Stand-Alone</a> solution. for teams of 10+</p>
 </div>
+## OAuth integration with Bitbucket
+GitKraken's integration with Bitbucket provides handy information about your repositories.
+
+First, you may search through your existing repositories when cloning:
+
+<img src="/wp-content/uploads//clone.png" srcset="/wp-content/uploads//clone@2x.png" class="img-bordered img-responsive center">
+
+Next, GitKraken Desktop presents a list of forks of the current repository when adding remotes:
+
+<img src="/wp-content/uploads//remote.png" srcset="/wp-content/uploads//remote@2x.png" class="img-bordered img-responsive center">
+
+Of course, you still have the option of manually entering repo URLs.
+
+***
+
+## Connecting to multiple Bitbucket accounts
+
+GitKraken connects to one Bitbucket account at a time. However, with GitKraken Pro's multiple <a href="/start-here/profiles">profile</a> support, you can easily switch between profiles that each have their own associated Bitbucket accounts.
+
 
 ***
 ## 1. Create an account
